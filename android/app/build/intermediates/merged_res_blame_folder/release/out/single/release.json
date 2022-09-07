@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_splash.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    }
+]

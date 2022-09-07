@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.webview"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\dinhn\.gradle\caches\transforms-3\95e931fbbfdb29d8fe263063f71e1fc3\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\dinhn\.gradle\caches\transforms-3\95e931fbbfdb29d8fe263063f71e1fc3\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:6:5-24:19
+16        android:name="com.webview.MainApplication"
+16-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:7:7-38
+17        android:allowBackup="false"
+17-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:10:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\dinhn\.gradle\caches\transforms-3\b5a8e99dac667ebea08e9f9757d3b404\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:9:7-41
+21        android:label="@string/app_name"
+21-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:8:7-39
+22        android:theme="@style/AppTheme"
+22-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:11:7-38
+23        android:usesCleartextTraffic="true" >
+23-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:8:9-44
+24        <activity
+24-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:11:9-111
+25            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+25-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:11:19-83
+26            android:exported="false" />
+26-->D:\react native\webview\android\app\src\debug\AndroidManifest.xml:11:84-108
+27        <activity
+27-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:12:7-23:18
+28            android:name="com.webview.MainActivity"
+28-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:13:9-37
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+29-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:15:9-118
+30            android:exported="true"
+30-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:18:9-32
+31            android:label="@string/app_name"
+31-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:14:9-41
+32            android:launchMode="singleTask"
+32-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:16:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:17:9-51
+34            <intent-filter>
+34-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:19:9-22:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:20:13-65
+35-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:20:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:21:13-73
+37-->D:\react native\webview\android\app\src\main\AndroidManifest.xml:21:23-70
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+42            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+42-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-83
+43            android:authorities="com.webview.fileprovider"
+43-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-64
+44            android:exported="false"
+44-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+45            android:grantUriPermissions="true" >
+45-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+46            <meta-data
+46-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:63
+47                android:name="android.support.FILE_PROVIDER_PATHS"
+47-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+48                android:resource="@xml/file_provider_paths" />
+48-->[:react-native-webview] D:\react native\webview\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-60
+49        </provider>
+50        <provider
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+52            android:authorities="com.webview.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dinhn\.gradle\caches\transforms-3\31798a0ea3f25ea98e44c876b4851b08\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dinhn\.gradle\caches\transforms-3\39517e1b011367242185b54afc0b3c9e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dinhn\.gradle\caches\transforms-3\39517e1b011367242185b54afc0b3c9e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dinhn\.gradle\caches\transforms-3\39517e1b011367242185b54afc0b3c9e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>
