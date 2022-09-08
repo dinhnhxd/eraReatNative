@@ -1,4 +1,4 @@
-com.webview
+com.erashop
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -676,7 +676,6 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable redbox_top_border_background
 drawable rn_edit_text_material
-drawable splash
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light

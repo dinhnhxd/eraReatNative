@@ -1,4 +1,0 @@
-#Mon Sep 05 23:38:06 ICT 2022
-base.0=D\:\\react native\\webview\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

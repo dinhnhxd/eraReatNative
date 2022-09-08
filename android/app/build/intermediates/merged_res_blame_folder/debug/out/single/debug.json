@@ -52,10 +52,6 @@
         "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
     },
     {
-        "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_splash.png.flat",
-        "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
-    },
-    {
         "merged": "D:\\react native\\webview\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
         "source": "D:\\react native\\webview\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
     },
